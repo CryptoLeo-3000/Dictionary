@@ -1,2 +1,2 @@
 # Dictionary
- An application for dictionary in python
+ Basic Dictionary using Python
